@@ -20,6 +20,7 @@ This is a simple number guessing game written in Rust, based on [The Rust Progra
 
 ```bash
 cargo run
+```
 
 ## Author
 
